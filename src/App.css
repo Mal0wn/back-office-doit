@@ -1,0 +1,14 @@
+
+.appContain {
+    flex-direction: row;
+    width: 90%;
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    font-family: 'Asap', sans-serif;
+}
+
+div {
+    display: flex;
+}

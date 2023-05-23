@@ -1,0 +1,54 @@
+.identityUser {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.identityUser label {
+    margin: 10px 20px;
+}
+
+.identityUser label h3 {
+    margin: 0;
+    padding: 0;
+}
+
+.identityUser label p {
+    font-size: 1.2em;
+}
+
+.identityUser div {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.identityUser input, .identityUser button {
+    width: 90%;
+    padding: 9px 30px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.identityUser input[type=submit], .identityUser button {
+    width: 90%;
+    background-color: var(--purple);
+    color: white;
+    padding: 15px;
+    margin: 10px auto;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
+
+.identityUser input[type=submit]:hover, .identityUser button:hover {
+    background-color: var(--purple);
+}
