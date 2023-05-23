@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/back-office-doit/static/css/main.1f6f0199.css",
+    "main.js": "/back-office-doit/static/js/main.d8457f85.js",
+    "static/js/787.2fb2ef6d.chunk.js": "/back-office-doit/static/js/787.2fb2ef6d.chunk.js",
+    "static/media/logo.png": "/back-office-doit/static/media/logo.1e48a91393b38645c27a.png",
+    "index.html": "/back-office-doit/index.html",
+    "main.1f6f0199.css.map": "/back-office-doit/static/css/main.1f6f0199.css.map",
+    "main.d8457f85.js.map": "/back-office-doit/static/js/main.d8457f85.js.map",
+    "787.2fb2ef6d.chunk.js.map": "/back-office-doit/static/js/787.2fb2ef6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f6f0199.css",
+    "static/js/main.d8457f85.js"
+  ]
+}
